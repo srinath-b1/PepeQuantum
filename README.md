@@ -3,6 +3,7 @@
 Quantum-inspired SPL token deployed on Solana Devnet.
 
 ---
+<img src="PepeQuantum_Devnet.png" width="600"/>
 
 ## 🔗 Network
 Solana Devnet
