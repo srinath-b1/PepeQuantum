@@ -22,8 +22,8 @@ Solana Devnet
 
 solana config set --url devnet
 spl-token create-token
-spl-token create-account <TOKEN_ADDRESS>
-spl-token mint <TOKEN_ADDRESS> 1000000
+spl-token create-account <dadrqtQTQo7BrYdfr8rG1uYQ1QisNDUXSQKfPR4mNDZ>
+spl-token mint <mntKxE3d6TyF5Xe2ptRbRoCH4qtF3eyM1noqHA474eq> 672
 
 ---
 
